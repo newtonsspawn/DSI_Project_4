@@ -1,0 +1,10 @@
+earthquake
+hurricane
+fire
+emergency
+help
+wind
+rain
+water
+shock
+aftershock
