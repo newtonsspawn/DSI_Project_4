@@ -131,3 +131,5 @@ devastation
 flood
 flooding
 aid
+catastrophe
+catastrophic
