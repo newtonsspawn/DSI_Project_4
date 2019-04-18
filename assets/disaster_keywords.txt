@@ -127,3 +127,9 @@ windy
 wave
 ice
 epic
+devastation
+flood
+flooding
+aid
+catastrophe
+catastrophic
