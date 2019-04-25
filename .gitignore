@@ -2,6 +2,12 @@
 /kenny/.sql_creds.py
 /.ipynb_checkpoints/
 /kenny/test.ipynb
+
+
+**/.ipynb_checkpoints/*
+
 /kenny/.ipynb_checkpoints/
 /aaron/.ipynb_checkpoints/
 /assets/svd_df.csv
+**/.DS_Store
+
