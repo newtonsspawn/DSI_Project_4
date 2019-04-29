@@ -1,4 +1,13 @@
 /.idea
-/kenny/.sql_creds.py
+/project_4/code/.sql_creds.py
 /.ipynb_checkpoints/
-/kenny/test.ipynb
+/project_4/code/test.ipynb
+
+
+**/.ipynb_checkpoints/*
+
+/project_4/code/.ipynb_checkpoints/
+/aaron/.ipynb_checkpoints/
+/assets/svd_df.csv
+**/.DS_Store
+
